@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "McDonald's",
+      "address": "rue tunis",
+      "email": "mcdonalds@gmail.com",
+      "services": "coffe",
+      "mobile": 1234567899
+    },
+    {
+      "id": 2,
+      "name": "Tacos",
+      "address": "rue Tunis",
+      "email": "tacos@gmail.com",
+      "services": "Tacos",
+      "mobile": 1133457788
+    }
+  ],
+  "signup": [
+    {
+      "name": "mouaffak",
+      "email": "mouaffak@gmail.com",
+      "mobile": 58895508,
+      "password": "0000",
+      "services": "chai , samosa",
+      "id": 3
+    },
+    {
+      "name": "dsf",
+      "email": "mouaffak",
+      "mobile": null,
+      "password": "0000",
+      "id": 4
+    },
+    {
+      "name": "gtric",
+      "email": "enetcom@gmail.com",
+      "mobile": 6666,
+      "password": "0000",
+      "id": 5
+    },
+    {
+      "name": "tp",
+      "email": "tp@gmail.com",
+      "mobile": 5555,
+      "password": "0000",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
